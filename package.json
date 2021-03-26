@@ -1,11 +1,12 @@
 {
   "name": "sim-eventbus",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "",
-  "main": "index.ts",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "files": ["index.js","lib/eventbus.js","lib/eventbus.d.ts"],
   "keywords": [],
   "author": "",
   "license": "ISC",
